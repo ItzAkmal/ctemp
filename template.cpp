@@ -9,7 +9,10 @@ using namespace std;
 #define scc(t) scanf("%c", &t)
 #define scw(t) cin >> t
 #define scs(t) getline(cin, t)
-#define forn(t) for (int i = 0; i < t; i++)
+#define fori(t) for (int i = 0; i < t; i++)
+#define forij(t, p)             \
+    for (int i = 0; i < t; i++) \
+        for (int j = 0; j < p; j++)
 #define mp make_pair
 #define pb push_back
 #define PI 3.1415926535897932384626433832795
