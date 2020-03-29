@@ -7,6 +7,7 @@ using namespace std;
 #define scf(t) scanf("%f", &t)
 #define sclf(t) scanf("%lf", &t)
 #define scc(t) scanf("%c", &t)
+#define scw(t) cin >> t
 #define scs(t) getline(cin, t)
 #define forn(t) for (int i = 0; i < t; i++)
 #define mp make_pair
