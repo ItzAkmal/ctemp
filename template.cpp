@@ -9,6 +9,7 @@ using namespace std;
 #define scc(t) scanf("%c", &t)
 #define scw(t) cin >> t
 #define scs(t) getline(cin, t)
+#define forni(p, t) for (int i = p; i < t; i++)
 #define fori(t) for (int i = 0; i < t; i++)
 #define rfori(t) for (int i = t-1; i >=0; i--)
 #define forij(t, p)             \
