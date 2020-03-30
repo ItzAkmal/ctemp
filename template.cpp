@@ -10,11 +10,13 @@ using namespace std;
 #define scw(t) cin >> t
 #define scs(t) getline(cin, t)
 #define fori(t) for (int i = 0; i < t; i++)
+#define rfori(t) for (int i = t-1; i >=0; i--)
 #define forij(t, p)             \
     for (int i = 0; i < t; i++) \
         for (int j = 0; j < p; j++)
 #define mp make_pair
 #define pb push_back
+#define ppb pop_back
 #define all(t) t.begin(), t.end()
 #define PI 3.1415926535897932384626433832795
 typedef pair<int, int> pii;
@@ -30,9 +32,18 @@ typedef unsigned long int uint32;
 typedef long long int int64;
 typedef unsigned long long int uint64;
 
-int main()
+void solve()
 {
     cout << "Hello World!" << endl;
+}
+
+int main()
+{
+//     int cases;
+//     scd(cases);
+    
+//     while(cases--)
+        solve();
 
     return 0;
 }
