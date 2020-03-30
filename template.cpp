@@ -22,6 +22,7 @@ using namespace std;
 #define PI 3.1415926535897932384626433832795
 typedef pair<int, int> pii;
 typedef vector<int> vi;
+typedef vector<char> vc;
 typedef vector<string> vs;
 typedef vector<pii> vii;
 typedef vector<vi> vvi;
