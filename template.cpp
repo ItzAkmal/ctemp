@@ -15,6 +15,7 @@ using namespace std;
         for (int j = 0; j < p; j++)
 #define mp make_pair
 #define pb push_back
+#define all(t) t.begin(), t.end()
 #define PI 3.1415926535897932384626433832795
 typedef pair<int, int> pii;
 typedef vector<int> vi;
