@@ -1,25 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define scd(t) scanf("%d", &t)
-#define scld(t) scanf("%ld", &t)
-#define sclld(t) scanf("%lld", &t)
-#define scf(t) scanf("%f", &t)
-#define sclf(t) scanf("%lf", &t)
-#define scc(t) scanf("%c", &t)
-#define scw(t) cin >> t
-#define scs(t) getline(cin, t)
-#define forni(p, t) for (int i = p; i < t; i++)
-#define fori(t) for (int i = 0; i < t; i++)
-#define rfori(t) for (int i = t-1; i >=0; i--)
-#define forij(t, p)             \
-    for (int i = 0; i < t; i++) \
-        for (int j = 0; j < p; j++)
 #define mp make_pair
 #define pb push_back
 #define ppb pop_back
 #define all(t) t.begin(), t.end()
-#define PI 3.1415926535897932384626433832795
+#define PI 3.14159
 typedef pair<int, int> pii;
 typedef vector<int> vi;
 typedef vector<char> vc;
@@ -34,18 +20,9 @@ typedef unsigned long int uint32;
 typedef long long int int64;
 typedef unsigned long long int uint64;
 
-void solve()
-{
-    cout << "Hello World!" << endl;
-}
-
 int main()
 {
-//     int cases;
-//     scd(cases);
-    
-//     while(cases--)
-        solve();
+    printf("Hello World");
 
     return 0;
 }
